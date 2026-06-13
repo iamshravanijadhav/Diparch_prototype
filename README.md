@@ -209,4 +209,4 @@ HeatShield AI aims to make worker safety affordable, accessible, and proactive t
 
 ---
 
-### Made with by Team Diparch
+### Made by Team Diparch
