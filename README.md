@@ -2,7 +2,7 @@
 
 ### Affordable IoT-Based Heat Stress Monitoring System for Worker Safety
 
-HeatShield AI is a HealthTech solution developed by **Team Diparch** that aims to reduce heat-related health risks among outdoor workers such as construction laborers, traffic police, delivery personnel, and industrial workers.
+HeatShield AI is a HealthTech solution developed by **Team Diparch** that aims to reduce heat-related health risks among outdoor workers such as construction laborers, industrial workers.
 
 The system continuously monitors environmental and physiological parameters and provides real-time alerts when unsafe conditions are detected.
 
